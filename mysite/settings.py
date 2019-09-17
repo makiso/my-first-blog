@@ -25,7 +25,7 @@ SECRET_KEY = 'qgn&rnl^5kz6!^a_*1@)$k8)nt^4vj577lyqv)5^+s5#$2i)@g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'somaki.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
 
 
 # Application definition
